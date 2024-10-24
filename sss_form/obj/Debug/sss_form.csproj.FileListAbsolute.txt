@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\sss_form\sss_form\bin\Debug\sss_form.exe.config
+C:\Users\User\source\repos\sss_form\sss_form\bin\Debug\sss_form.exe
+C:\Users\User\source\repos\sss_form\sss_form\bin\Debug\sss_form.pdb
+C:\Users\User\source\repos\sss_form\sss_form\obj\Debug\sss_form.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sss_form\sss_form\obj\Debug\sss_form.Form1.resources
+C:\Users\User\source\repos\sss_form\sss_form\obj\Debug\sss_form.Properties.Resources.resources
+C:\Users\User\source\repos\sss_form\sss_form\obj\Debug\sss_form.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sss_form\sss_form\obj\Debug\sss_form.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sss_form\sss_form\obj\Debug\sss_form.exe
+C:\Users\User\source\repos\sss_form\sss_form\obj\Debug\sss_form.pdb
